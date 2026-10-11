@@ -51,8 +51,19 @@
   </p> -->
 
 
-  📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uncletientrung&showicons=true&theme=algolia&hideborder=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncletientrung&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" /> </p>
+<!--
+---
 
-🐍 My Contributions
-<p align="center"> <img src="https://raw.githubusercontent.com/uncletientrung/uncletientrung/output/github-snake.svg" alt="GitHub Contribution Snake" /> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uncletientrung&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncletientrung&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/uncletientrung/uncletientrung/output/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+-->
